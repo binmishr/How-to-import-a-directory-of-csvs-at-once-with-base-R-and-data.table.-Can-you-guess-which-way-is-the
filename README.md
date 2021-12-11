@@ -1,0 +1,1 @@
+# How-to-import-a-directory-of-csvs-at-once-with-base-R-and-data.table.-Can-you-guess-which-way-is-the
